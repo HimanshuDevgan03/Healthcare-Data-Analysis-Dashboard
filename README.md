@@ -34,16 +34,16 @@ This interactive multi-page dashboard analyzes hospital performance across patie
 
 ## 📸 Dashboard Preview
 
-![Executive Overview](Images/01_executive_overview.png)
+![Executive Overview](Images/01_executive_overview.png.png)
 
-![Patient Demographics](Images/02_patient_demographics.png)
+![Patient Demographics](Images/02_patient_demographics.png.png)
 
-![Disease Distribution](Images/03_disease_distribution.png)
+![Disease Distribution](Images/03_disease_distribution.png.png)
 
-![Treatment & Medication](Images/04_treatment_medication.png)
+![Treatment & Medication](Images/04_treatment_medication.png.png)
 
-![Hospital Comparison](Images/05_hospital_comparison.png)
+![Hospital Comparison](Images/05_hospital_comparison.png.png)
 
-![Key Insights](Images/06_key_insights.png)
+![Key Insights](Images/06_key_insights.png.png)
 
-![Financial Efficiency](Images/07_financial_efficiency.png)
+![Financial Efficiency](Images/07_financial_efficiency.png.png)
